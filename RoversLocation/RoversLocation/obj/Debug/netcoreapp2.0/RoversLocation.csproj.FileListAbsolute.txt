@@ -1,0 +1,16 @@
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\RoversLocation.deps.json
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\RoversLocation.runtimeconfig.json
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\RoversLocation.runtimeconfig.dev.json
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\RoversLocation.dll
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\RoversLocation.pdb
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.csprojAssemblyReference.cache
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.AssemblyInfoInputs.cache
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.AssemblyInfo.cs
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.dll
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.pdb
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\Models.dll
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\Models.pdb
+D:\Dotnet Projects\RoversLocation\RoversLocation\obj\Debug\netcoreapp2.0\RoversLocation.csproj.CopyComplete
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\Services.dll
+D:\Dotnet Projects\RoversLocation\RoversLocation\bin\Debug\netcoreapp2.0\Services.pdb

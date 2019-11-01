@@ -1,0 +1,14 @@
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\Services.pdb
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.dll
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.pdb
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\Models.dll
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\Models.pdb
+D:\Dotnet Projects\RoversLocation\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Dotnet Projects\RoversLocation\Services\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
