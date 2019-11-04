@@ -49,7 +49,7 @@ namespace Services
                                 yAxisPosition++;
                                 break;
                             case 'S': //South
-                                yAxisPosition++;
+                                yAxisPosition--;
                                 break;
                             default:
                                 break;
