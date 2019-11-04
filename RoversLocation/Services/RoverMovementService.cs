@@ -20,11 +20,11 @@ namespace Services
             string movementDirections = roverPosition.MovementSignals;
 
             int xMaxValue = (int)Char.GetNumericValue(roverPosition.Plateau[0]);
-            int yMaxValue = (int)Char.GetNumericValue(roverPosition.Plateau[1]);
+            int yMaxValue = (int)Char.GetNumericValue(roverPosition.Plateau[2]);
 
             int xAxisPosition = (int)Char.GetNumericValue(roversPosition[0]);
-            int yAxisPosition = (int)Char.GetNumericValue(roversPosition[1]);
-            char currentDirection = roversPosition[2];
+            int yAxisPosition = (int)Char.GetNumericValue(roversPosition[2]);
+            char currentDirection = roversPosition[4];
 
             foreach (char movement in movementDirections)
             {
